@@ -1,0 +1,19 @@
+.card{
+    transform: translateY(20px);
+    border-radius: 10px;
+}
+
+.responsive-img{
+   width: 275px;
+   transform: translateY(50px);
+
+}
+
+.subline{
+    font-size: 1.5em;
+}
+
+.myface{
+    
+    
+}

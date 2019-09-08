@@ -5,11 +5,11 @@ function Reactprojects() {
         return (
             <div>
                 <h1>
-                    React
+                    Tic-tac-Toe
                 </h1>
             </div>
         )
     
 }
 
-export default React;
+export default Reactprojects;
